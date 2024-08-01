@@ -7,7 +7,7 @@
 #include <SoftwareSerial.h>
 
 #define FIREBASE_HOST "your-project-id.firebaseio.com"
-#define FIREBASE_AUTH "your-database-secretAIzaSyA7MuBbHk8Jh30gSYhqzlIbEWBnUuuEpI4"
+#define FIREBASE_AUTH "your-database-secret "
 
 #define WIFI_SSID "your-SSID"
 #define WIFI_PASSWORD "your-PASSWORD"
